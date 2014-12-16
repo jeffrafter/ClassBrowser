@@ -8,3 +8,6 @@ ClassBrowser-*.gem
 
 # Mac OS files
 .DS_Store
+
+coverage
+.ruby-version
