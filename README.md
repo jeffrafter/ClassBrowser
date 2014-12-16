@@ -6,6 +6,8 @@
 [![Code Climate][CC img]][Code Climate]
 [![Coverage Status][CS img]][Coverage Status]
 
+1
+
 ## Description
 
 ClassBrowser is an interactive ruby class browser.   
