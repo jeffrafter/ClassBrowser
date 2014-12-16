@@ -3,7 +3,7 @@ require "codeclimate-test-reporter"
 CodeClimate::TestReporter.start
 
 require_relative '../lib/HierarchyWriter'
-require_relative '../lib/ClassBrowser'
+require_relative '../lib/class_browser'
 
 # sample classes used in tests below
 class Foo < Object; end
